@@ -1,2 +1,2 @@
 #!/bin/bash
-allias b="ls rm *"
+allias b='ls rm *'
